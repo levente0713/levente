@@ -25,12 +25,13 @@ h2,h3 {
 }
 #plant {
     margin-right: 10px;
-    border: black;
-    border-width: 2px;
-    border-radius: 2px;
+    margin-left: 10px;
+    border: black, 2px, solid;
     float: right;
 }
 table {
     width: 200px;
+    position: relative;
+    left: 45%;
     
 }
