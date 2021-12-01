@@ -10,17 +10,13 @@ p{
 	color: black;
 }
 
-hr {
-	
-}
+hr 
 
-h1, h2 {
+h1, h2 
 	
-}
 
-h2 {
+h2
 	
-}
 
 #tartalom {
 	margin: 0 auto 0 auto;
@@ -28,18 +24,13 @@ h2 {
 	width: 850px;
 	background-color: white;
 	padding-right: 10px;
-	padding-left: 10px;
-	
-	
-	
+	padding-left: 10px;	
 }
 
 #nev{
 	font-size: 16px;
 	font-style:italic;
 }
-
-
 .kep {
 	float: right;
 	margin-left: 5px;
